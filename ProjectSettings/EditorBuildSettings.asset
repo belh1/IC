@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ba8933c07c482084baf36d3c39664b9f
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: a4d1a3ddd0acac742bc110db8fce8b8f
+  - enabled: 1
+    path: Assets/Scenes/Quarto.unity
+    guid: 23fd1ce6a2eacce4ba63fef9aa52edbf
+  - enabled: 1
+    path: Assets/Scenes/despertador.unity
+    guid: ae0c09be9059e5b4983465a2da24ed10
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 3aabf0ef22fd8b24ea49dd4223706f9b
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: d44e43c5519bcc44a9c8a5166f776a42
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
